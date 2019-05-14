@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TableView title="Grinding1 Table">
+  <Param cnlNum="740">Grinding2 - WS_status</Param>
+  <Param cnlNum="732">Grinding2 - TO_current</Param>
+  <Param cnlNum="741">Grinding2 - TO_product_qty</Param>
+  <Param cnlNum="742">Grinding2 - Cntr_good_dw</Param>
+  <Param cnlNum="723">Grinding2 - PPM_avg_mf</Param>
+  <Param cnlNum="724">Grinding2 - T_run_dw</Param>
+  <Param cnlNum="625">Grinding2 - T_alarm_dw</Param>
+  <Param cnlNum="726">Grinding2 - T_setup_dw</Param>
+  <Param cnlNum="727">Grinding2 - T_repair_dw</Param>
+  <Param cnlNum="728">Grinding2 - T_total_dw</Param>
+  <Param cnlNum="729">Grinding2 - T_estimate_dw</Param>
+  <Param cnlNum="730">Grinding2 - Progress_mf</Param>
+  <Param cnlNum="722">Grinding2 - Queue_qty</Param>
+  <Param cnlNum="733" ctrlCnlNum="733">Grinding2 - TO_new</Param>
+  <Param cnlNum="734" ctrlCnlNum="734">Grinding2 - TO_delete</Param>
+</TableView>
