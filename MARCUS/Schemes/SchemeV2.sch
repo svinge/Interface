@@ -207,7 +207,7 @@
       <CtrlCnlNum>0</CtrlCnlNum>
     </basic:Led>
     <basic:Led>
-      <BackColor>Silver</BackColor>
+      <BackColor>Yellow</BackColor>
       <BorderColor>Black</BorderColor>
       <BorderWidth>3</BorderWidth>
       <ToolTip />
@@ -812,6 +812,1756 @@
       <Url />
       <ViewID>20</ViewID>
     </basic:Link>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>26</ID>
+      <Name />
+      <Location>
+        <X>330</X>
+        <Y>63</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>TO. Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>27</ID>
+      <Name />
+      <Location>
+        <X>330</X>
+        <Y>132</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>TO. Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>28</ID>
+      <Name />
+      <Location>
+        <X>330</X>
+        <Y>201</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>TO. Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>29</ID>
+      <Name />
+      <Location>
+        <X>330</X>
+        <Y>269</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>TO. Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>30</ID>
+      <Name />
+      <Location>
+        <X>330</X>
+        <Y>336</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>TO. Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>31</ID>
+      <Name />
+      <Location>
+        <X>330</X>
+        <Y>405</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>TO. Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>32</ID>
+      <Name />
+      <Location>
+        <X>330</X>
+        <Y>466</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>TO. Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>33</ID>
+      <Name />
+      <Location>
+        <X>330</X>
+        <Y>534</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>TO. Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>34</ID>
+      <Name />
+      <Location>
+        <X>577</X>
+        <Y>63</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>TO. Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>35</ID>
+      <Name />
+      <Location>
+        <X>577</X>
+        <Y>132</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>TO. Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>36</ID>
+      <Name />
+      <Location>
+        <X>577</X>
+        <Y>200</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>TO. Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>37</ID>
+      <Name />
+      <Location>
+        <X>577</X>
+        <Y>269</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>TO. Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>38</ID>
+      <Name />
+      <Location>
+        <X>577</X>
+        <Y>337</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>TO. Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>39</ID>
+      <Name />
+      <Location>
+        <X>577</X>
+        <Y>404</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>TO. Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>40</ID>
+      <Name />
+      <Location>
+        <X>330</X>
+        <Y>94</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Progress</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>41</ID>
+      <Name />
+      <Location>
+        <X>330</X>
+        <Y>164</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Progress</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>42</ID>
+      <Name />
+      <Location>
+        <X>330</X>
+        <Y>233</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Progress</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>43</ID>
+      <Name />
+      <Location>
+        <X>330</X>
+        <Y>301</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Progress</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>44</ID>
+      <Name />
+      <Location>
+        <X>330</X>
+        <Y>369</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Progress</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>45</ID>
+      <Name />
+      <Location>
+        <X>330</X>
+        <Y>437</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Progress</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>46</ID>
+      <Name />
+      <Location>
+        <X>330</X>
+        <Y>498</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Progress</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>47</ID>
+      <Name />
+      <Location>
+        <X>330</X>
+        <Y>566</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Progress</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>48</ID>
+      <Name />
+      <Location>
+        <X>577</X>
+        <Y>96</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Progress</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>49</ID>
+      <Name />
+      <Location>
+        <X>577</X>
+        <Y>164</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Progress</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>50</ID>
+      <Name />
+      <Location>
+        <X>577</X>
+        <Y>232</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Progress</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>51</ID>
+      <Name />
+      <Location>
+        <X>577</X>
+        <Y>301</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Progress</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>52</ID>
+      <Name />
+      <Location>
+        <X>577</X>
+        <Y>369</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Progress</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <DynamicText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>53</ID>
+      <Name />
+      <Location>
+        <X>577</X>
+        <Y>436</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Progress</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+      <BackColorOnHover />
+      <BorderColorOnHover />
+      <ForeColorOnHover />
+      <UnderlineOnHover>false</UnderlineOnHover>
+      <Action>None</Action>
+      <ShowValue>ShowWithUnit</ShowValue>
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </DynamicText>
+    <basic:Led>
+      <BackColor>Silver</BackColor>
+      <BorderColor>Black</BorderColor>
+      <BorderWidth>3</BorderWidth>
+      <ToolTip />
+      <ID>54</ID>
+      <Name />
+      <Location>
+        <X>440</X>
+        <Y>70</Y>
+      </Location>
+      <Size>
+        <Width>30</Width>
+        <Height>30</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <BorderOpacity>30</BorderOpacity>
+      <Action>None</Action>
+      <Conditions>
+        <Condition>
+          <CompareOperator1>LessThanEqual</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Red</Color>
+        </Condition>
+        <Condition>
+          <CompareOperator1>GreaterThan</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Green</Color>
+        </Condition>
+      </Conditions>
+      <ToolTip />
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </basic:Led>
+    <basic:Led>
+      <BackColor>Silver</BackColor>
+      <BorderColor>Black</BorderColor>
+      <BorderWidth>3</BorderWidth>
+      <ToolTip />
+      <ID>55</ID>
+      <Name />
+      <Location>
+        <X>440</X>
+        <Y>140</Y>
+      </Location>
+      <Size>
+        <Width>30</Width>
+        <Height>30</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <BorderOpacity>30</BorderOpacity>
+      <Action>None</Action>
+      <Conditions>
+        <Condition>
+          <CompareOperator1>LessThanEqual</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Red</Color>
+        </Condition>
+        <Condition>
+          <CompareOperator1>GreaterThan</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Green</Color>
+        </Condition>
+      </Conditions>
+      <ToolTip />
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </basic:Led>
+    <basic:Led>
+      <BackColor>Silver</BackColor>
+      <BorderColor>Black</BorderColor>
+      <BorderWidth>3</BorderWidth>
+      <ToolTip />
+      <ID>56</ID>
+      <Name />
+      <Location>
+        <X>440</X>
+        <Y>209</Y>
+      </Location>
+      <Size>
+        <Width>30</Width>
+        <Height>30</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <BorderOpacity>30</BorderOpacity>
+      <Action>None</Action>
+      <Conditions>
+        <Condition>
+          <CompareOperator1>LessThanEqual</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Red</Color>
+        </Condition>
+        <Condition>
+          <CompareOperator1>GreaterThan</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Green</Color>
+        </Condition>
+      </Conditions>
+      <ToolTip />
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </basic:Led>
+    <basic:Led>
+      <BackColor>Silver</BackColor>
+      <BorderColor>Black</BorderColor>
+      <BorderWidth>3</BorderWidth>
+      <ToolTip />
+      <ID>57</ID>
+      <Name />
+      <Location>
+        <X>440</X>
+        <Y>277</Y>
+      </Location>
+      <Size>
+        <Width>30</Width>
+        <Height>30</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <BorderOpacity>30</BorderOpacity>
+      <Action>None</Action>
+      <Conditions>
+        <Condition>
+          <CompareOperator1>LessThanEqual</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Red</Color>
+        </Condition>
+        <Condition>
+          <CompareOperator1>GreaterThan</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Green</Color>
+        </Condition>
+      </Conditions>
+      <ToolTip />
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </basic:Led>
+    <basic:Led>
+      <BackColor>Silver</BackColor>
+      <BorderColor>Black</BorderColor>
+      <BorderWidth>3</BorderWidth>
+      <ToolTip />
+      <ID>58</ID>
+      <Name />
+      <Location>
+        <X>440</X>
+        <Y>345</Y>
+      </Location>
+      <Size>
+        <Width>30</Width>
+        <Height>30</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <BorderOpacity>30</BorderOpacity>
+      <Action>None</Action>
+      <Conditions>
+        <Condition>
+          <CompareOperator1>LessThanEqual</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Red</Color>
+        </Condition>
+        <Condition>
+          <CompareOperator1>GreaterThan</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Green</Color>
+        </Condition>
+      </Conditions>
+      <ToolTip />
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </basic:Led>
+    <basic:Led>
+      <BackColor>Silver</BackColor>
+      <BorderColor>Black</BorderColor>
+      <BorderWidth>3</BorderWidth>
+      <ToolTip />
+      <ID>59</ID>
+      <Name />
+      <Location>
+        <X>440</X>
+        <Y>413</Y>
+      </Location>
+      <Size>
+        <Width>30</Width>
+        <Height>30</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <BorderOpacity>30</BorderOpacity>
+      <Action>None</Action>
+      <Conditions>
+        <Condition>
+          <CompareOperator1>LessThanEqual</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Red</Color>
+        </Condition>
+        <Condition>
+          <CompareOperator1>GreaterThan</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Green</Color>
+        </Condition>
+      </Conditions>
+      <ToolTip />
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </basic:Led>
+    <basic:Led>
+      <BackColor>Silver</BackColor>
+      <BorderColor>Black</BorderColor>
+      <BorderWidth>3</BorderWidth>
+      <ToolTip />
+      <ID>60</ID>
+      <Name />
+      <Location>
+        <X>440</X>
+        <Y>473</Y>
+      </Location>
+      <Size>
+        <Width>30</Width>
+        <Height>30</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <BorderOpacity>30</BorderOpacity>
+      <Action>None</Action>
+      <Conditions>
+        <Condition>
+          <CompareOperator1>LessThanEqual</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Red</Color>
+        </Condition>
+        <Condition>
+          <CompareOperator1>GreaterThan</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Green</Color>
+        </Condition>
+      </Conditions>
+      <ToolTip />
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </basic:Led>
+    <basic:Led>
+      <BackColor>Silver</BackColor>
+      <BorderColor>Black</BorderColor>
+      <BorderWidth>3</BorderWidth>
+      <ToolTip />
+      <ID>61</ID>
+      <Name />
+      <Location>
+        <X>440</X>
+        <Y>542</Y>
+      </Location>
+      <Size>
+        <Width>30</Width>
+        <Height>30</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <BorderOpacity>30</BorderOpacity>
+      <Action>None</Action>
+      <Conditions>
+        <Condition>
+          <CompareOperator1>LessThanEqual</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Red</Color>
+        </Condition>
+        <Condition>
+          <CompareOperator1>GreaterThan</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Green</Color>
+        </Condition>
+      </Conditions>
+      <ToolTip />
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </basic:Led>
+    <basic:Led>
+      <BackColor>Silver</BackColor>
+      <BorderColor>Black</BorderColor>
+      <BorderWidth>3</BorderWidth>
+      <ToolTip />
+      <ID>62</ID>
+      <Name />
+      <Location>
+        <X>684</X>
+        <Y>71</Y>
+      </Location>
+      <Size>
+        <Width>30</Width>
+        <Height>30</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <BorderOpacity>30</BorderOpacity>
+      <Action>None</Action>
+      <Conditions>
+        <Condition>
+          <CompareOperator1>LessThanEqual</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Red</Color>
+        </Condition>
+        <Condition>
+          <CompareOperator1>GreaterThan</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Green</Color>
+        </Condition>
+      </Conditions>
+      <ToolTip />
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </basic:Led>
+    <basic:Led>
+      <BackColor>Silver</BackColor>
+      <BorderColor>Black</BorderColor>
+      <BorderWidth>3</BorderWidth>
+      <ToolTip />
+      <ID>63</ID>
+      <Name />
+      <Location>
+        <X>684</X>
+        <Y>140</Y>
+      </Location>
+      <Size>
+        <Width>30</Width>
+        <Height>30</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <BorderOpacity>30</BorderOpacity>
+      <Action>None</Action>
+      <Conditions>
+        <Condition>
+          <CompareOperator1>LessThanEqual</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Red</Color>
+        </Condition>
+        <Condition>
+          <CompareOperator1>GreaterThan</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Green</Color>
+        </Condition>
+      </Conditions>
+      <ToolTip />
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </basic:Led>
+    <basic:Led>
+      <BackColor>Silver</BackColor>
+      <BorderColor>Black</BorderColor>
+      <BorderWidth>3</BorderWidth>
+      <ToolTip />
+      <ID>64</ID>
+      <Name />
+      <Location>
+        <X>684</X>
+        <Y>208</Y>
+      </Location>
+      <Size>
+        <Width>30</Width>
+        <Height>30</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <BorderOpacity>30</BorderOpacity>
+      <Action>None</Action>
+      <Conditions>
+        <Condition>
+          <CompareOperator1>LessThanEqual</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Red</Color>
+        </Condition>
+        <Condition>
+          <CompareOperator1>GreaterThan</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Green</Color>
+        </Condition>
+      </Conditions>
+      <ToolTip />
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </basic:Led>
+    <basic:Led>
+      <BackColor>Silver</BackColor>
+      <BorderColor>Black</BorderColor>
+      <BorderWidth>3</BorderWidth>
+      <ToolTip />
+      <ID>65</ID>
+      <Name />
+      <Location>
+        <X>684</X>
+        <Y>276</Y>
+      </Location>
+      <Size>
+        <Width>30</Width>
+        <Height>30</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <BorderOpacity>30</BorderOpacity>
+      <Action>None</Action>
+      <Conditions>
+        <Condition>
+          <CompareOperator1>LessThanEqual</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Red</Color>
+        </Condition>
+        <Condition>
+          <CompareOperator1>GreaterThan</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Green</Color>
+        </Condition>
+      </Conditions>
+      <ToolTip />
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </basic:Led>
+    <basic:Led>
+      <BackColor>Silver</BackColor>
+      <BorderColor>Black</BorderColor>
+      <BorderWidth>3</BorderWidth>
+      <ToolTip />
+      <ID>66</ID>
+      <Name />
+      <Location>
+        <X>684</X>
+        <Y>345</Y>
+      </Location>
+      <Size>
+        <Width>30</Width>
+        <Height>30</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <BorderOpacity>30</BorderOpacity>
+      <Action>None</Action>
+      <Conditions>
+        <Condition>
+          <CompareOperator1>LessThanEqual</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Red</Color>
+        </Condition>
+        <Condition>
+          <CompareOperator1>GreaterThan</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Green</Color>
+        </Condition>
+      </Conditions>
+      <ToolTip />
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </basic:Led>
+    <basic:Led>
+      <BackColor>Silver</BackColor>
+      <BorderColor>Black</BorderColor>
+      <BorderWidth>3</BorderWidth>
+      <ToolTip />
+      <ID>67</ID>
+      <Name />
+      <Location>
+        <X>684</X>
+        <Y>412</Y>
+      </Location>
+      <Size>
+        <Width>30</Width>
+        <Height>30</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <BorderOpacity>30</BorderOpacity>
+      <Action>None</Action>
+      <Conditions>
+        <Condition>
+          <CompareOperator1>LessThanEqual</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Red</Color>
+        </Condition>
+        <Condition>
+          <CompareOperator1>GreaterThan</CompareOperator1>
+          <CompareArgument1>0</CompareArgument1>
+          <CompareOperator2>LessThan</CompareOperator2>
+          <CompareArgument2>0</CompareArgument2>
+          <LogicalOperator>None</LogicalOperator>
+          <Color>Green</Color>
+        </Condition>
+      </Conditions>
+      <ToolTip />
+      <InCnlNum>0</InCnlNum>
+      <CtrlCnlNum>0</CtrlCnlNum>
+    </basic:Led>
+    <StaticText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>68</ID>
+      <Name />
+      <Location>
+        <X>383</X>
+        <Y>57</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Mch Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+    </StaticText>
+    <StaticText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>69</ID>
+      <Name />
+      <Location>
+        <X>384</X>
+        <Y>126</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Mch Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+    </StaticText>
+    <StaticText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>70</ID>
+      <Name />
+      <Location>
+        <X>384</X>
+        <Y>195</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Mch Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+    </StaticText>
+    <StaticText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>71</ID>
+      <Name />
+      <Location>
+        <X>384</X>
+        <Y>263</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Mch Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+    </StaticText>
+    <StaticText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>72</ID>
+      <Name />
+      <Location>
+        <X>384</X>
+        <Y>331</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Mch Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+    </StaticText>
+    <StaticText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>73</ID>
+      <Name />
+      <Location>
+        <X>384</X>
+        <Y>400</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Mch Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+    </StaticText>
+    <StaticText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>74</ID>
+      <Name />
+      <Location>
+        <X>384</X>
+        <Y>461</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Mch Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+    </StaticText>
+    <StaticText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>75</ID>
+      <Name />
+      <Location>
+        <X>384</X>
+        <Y>529</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Mch Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+    </StaticText>
+    <StaticText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>76</ID>
+      <Name />
+      <Location>
+        <X>629</X>
+        <Y>57</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Mch Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+    </StaticText>
+    <StaticText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>77</ID>
+      <Name />
+      <Location>
+        <X>629</X>
+        <Y>126</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Mch Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+    </StaticText>
+    <StaticText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>78</ID>
+      <Name />
+      <Location>
+        <X>629</X>
+        <Y>194</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Mch Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+    </StaticText>
+    <StaticText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>79</ID>
+      <Name />
+      <Location>
+        <X>629</X>
+        <Y>263</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Mch Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+    </StaticText>
+    <StaticText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>80</ID>
+      <Name />
+      <Location>
+        <X>629</X>
+        <Y>331</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Mch Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+    </StaticText>
+    <StaticText>
+      <BackColor />
+      <BorderColor />
+      <BorderWidth>0</BorderWidth>
+      <ToolTip />
+      <ID>81</ID>
+      <Name />
+      <Location>
+        <X>629</X>
+        <Y>398</Y>
+      </Location>
+      <Size>
+        <Width>100</Width>
+        <Height>100</Height>
+      </Size>
+      <ZIndex>0</ZIndex>
+      <ForeColor />
+      <Text>Mch Nr</Text>
+      <HAlign>Left</HAlign>
+      <VAlign>Top</VAlign>
+      <WordWrap>false</WordWrap>
+      <AutoSize>true</AutoSize>
+    </StaticText>
   </Components>
   <Images>
     <Image>
